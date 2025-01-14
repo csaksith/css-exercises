@@ -1,3 +1,4 @@
+<!-- External CSS -->
 div{
     background-color: red;
     font-size:32px;
@@ -5,12 +6,4 @@ div{
     font-weight:bold;
     color:white;
 }
-p{
-    background-color: green;
-    color:white;
-    font-size: 18px;
-}
-button{
-    background-color: orange;
-    font-size: 18px;
-}
+
